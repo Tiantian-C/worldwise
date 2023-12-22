@@ -35,6 +35,18 @@
         "lng": 13.376933665713324
       },
       "id": 98443197
+    },
+    {
+      "cityName": "Woodlake-Three Rivers",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2023-12-21T00:49:33.637Z",
+      "notes": "",
+      "position": {
+        "lat": "36.56260003738548",
+        "lng": "-118.63037109375001"
+      },
+      "id": 98443198
     }
   ]
 }
